@@ -1,10 +1,8 @@
-<img align="right" width="400" height="400" src="http://1.bp.blogspot.com/-FGzxXujKMNk/TyE4dqBBN5I/AAAAAAAAANU/Kkd8oPqJxVQ/s1600/templar0002.jpg">
+<img align="right" width="max" height="max" src="https://i.pinimg.com/originals/8e/d7/bb/8ed7bbbd8f357f0acc4d487208dab442.png">
  
-# Sejam muito bem-vindos!
+# Bem-Vindos Templários!
  
 ## ZackMartins!
- 
-Templário!
 
 ## Sobre mim
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ZackMartins)
@@ -16,9 +14,4 @@ Templário!
  
 - Desfrute-o!
 
-
 [![Cartão de Estatísticas](https://github-readme-stats.vercel.app/api?username=zackmartins)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Estatísticas](https://github-readme-stats.vercel.app/api/wakatime?username=zackmartins)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=zackmartins&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
