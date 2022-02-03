@@ -10,5 +10,3 @@
 - Thank you for your visit.
  
 - Enjoy it!シ
-
-## Status
