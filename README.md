@@ -1,4 +1,4 @@
-<img align="right" width="300" height="450" src="https://vignette.wikia.nocookie.net/deathbattlefanon/images/7/75/Brandon_Breyer_(Brightburn).png/revision/latest?cb=20190713124428">
+<img align="right" width="300" height="450" src="">
  
 # Welcome!
 
