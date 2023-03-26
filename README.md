@@ -8,9 +8,6 @@
 <h3>Perfil</h3>
 E aí, beleza? Este é o meu perfil do GitHub. Estou sempre aprendendo coisas novas sobre desenvolvimento de jogos e experimentando novas ideias.
 Se você também curte desenvolvimento de jogos e quer trocar ideias, sugestões ou aprender alguma coisa, é só me chamar! Vamos fazer grandes coisas juntos!
-
-Veja meu portifólio <a href="https://hawtusi.itch.io/"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="Ícone do itch.io" width="32" height="32"></a> para alguns dos meus jogos e experimentos.(Ainda sem nada)
-
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackmartins&show_icons=true&bg_color=00000000)
