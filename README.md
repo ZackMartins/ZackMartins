@@ -11,4 +11,4 @@ Se você também curte desenvolvimento de jogos e quer trocar ideias, sugestões
 <hr>
 
 <h3>GIF Animado</h3>
-<img src="https://media.tenor.com/SCBgCr5HCosAAAAi/niko.gif" alt="GIF animado" width="125" height="125">
+<img src="https://media.tenor.com/tJX87ej-F3sAAAAi/ra%C3%B1a-pixel.gif" alt="GIF animado" width="100" height="170">
