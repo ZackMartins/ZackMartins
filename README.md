@@ -11,4 +11,4 @@ Se você também curte desenvolvimento de jogos e quer trocar ideias, sugestões
 <hr>
 
 <h3>GIF Animado</h3>
-<img src="https://pa1.narvii.com/6909/c92d8f3b7babc938ab6686671f207a33c56e3e35r1-500-719_hq.gif" alt="GIF animado" width="125" height="179">
+<img src="https://media.tenor.com/SCBgCr5HCosAAAAi/niko.gif" alt="GIF animado" width="125" height="125">
